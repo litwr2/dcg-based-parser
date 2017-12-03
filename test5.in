@@ -1,0 +1,6 @@
+[hoc5x].
+i=7
+f=1
+while(i!=0)f=f*((i=i-1)+1)
+f
+if(f==5040)print 5040
